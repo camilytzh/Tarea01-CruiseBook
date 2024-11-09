@@ -1,4 +1,4 @@
-public abstract class Entidad {
+public class Entidad {
     private int cedula;
     private String nombre;
     private int edad;
