@@ -7,18 +7,6 @@ public class Crucero {
         this.destino = destino;
     }
 
-    public String getID(){
-
-        return this.id;
-
-    }
-
-    public void setID(String id){
-
-        this.id = id;
-
-    }
-
     public String getdestino(){
 
         return this.destino;

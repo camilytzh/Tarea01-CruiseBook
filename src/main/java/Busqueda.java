@@ -9,19 +9,6 @@ public class Busqueda implements BusquedaPorDuracion,BusquedaPorDestino,Busqueda
         return new List<Crucero>();
     }
 
-    public List<Crucero> buscarPorDestino(String destino){
-
-        //logica de BusquedaPorDestino
-
-        return new List<Crucero>();
-    }
-
-    public List<Crucero> buscarPorDuracion(int dias){
-
-        //logica de BusquedaPorDuracion
-
-        return new List<Crucero>();
-    }
 
     public List<Crucero> buscarPorPolitica(String nombrePolitica){
 
